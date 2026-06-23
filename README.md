@@ -5,12 +5,13 @@
 # Hi there, I'm Gloria Mukabwa 👋
  
 A brief, 2-3 sentence introduction about who you are, what you are passionate about, and what kind of problems you enjoy solving. Speak to your unique engineering interests here.
+I am a Software Developer that is passionate about making life easier using code.
  
-- 🔭 **Current Focus:** What are you actively working on or building right now? (e.g., a specific project, thesis, or application)
+- 🔭 **Current Focus:** Currently, I am working on a farm management system that can eliminated the use of keeping records through paper and provide a centralized system of management
 
-- 🌱 **Learning & Exploration:** What concepts, frameworks, or languages are you currently diving into?
+- 🌱 **Learning & Exploration:** I am currently working on my mastery of the use of PHP as a backend language
 
-- ⚡ **Core Interests:** What domains excite you most? (e.g., Data Science, Embedded Systems, Mobile Apps, Cybersecurity, Cloud Infrastructure)
+- ⚡ **Core Interests:** TMobile Applications, Web Applications
  
 ---
  
@@ -31,12 +32,12 @@ A brief, 2-3 sentence introduction about who you are, what you are passionate ab
 *Note: These data visualization modules automatically update in real time based on your active version control contributions.*
  
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff%22 alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=glomukabwa&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff%22 alt="GitHub Stats" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff%22 alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glomukabwa&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff%22 alt="Top Languages" />
  
   <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&bg_color=0f0c29&color=67e8f9&line=2c5364&point=67e8f9&area=true&hide_border=true%22 alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=glomukabwa&bg_color=0f0c29&color=67e8f9&line=2c5364&point=67e8f9&area=true&hide_border=true%22 alt="Contribution Graph" />
 </p>
 </p>
  
