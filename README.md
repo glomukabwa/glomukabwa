@@ -44,9 +44,9 @@ I am a Software Developer that is passionate about making life easier using code
  
 ## Connect With Me
  
-- 💼 **Professional Network:** [Link to your LinkedIn, Portfolio, or CV]
+- 💼 **Professional Network:** www.linkedin.com/in/gloria-mukabwa-843116370
 
-- 📧 **Direct Contact:** [Your email address or professional contact point]
+- 📧 **Direct Contact:** mukabwaglo@gmail.com
  
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f0c29&height=100&section=footer%22 />
