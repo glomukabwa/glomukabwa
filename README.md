@@ -2,9 +2,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=180&section=header&text=WELCOME+TO+MY+PROFILE&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Your+Subtitle+or+Professional+Tagline+Here&descAlignY=58&descColor=67e8f9&animation=fadeIn%22 />
 </p>
  
-# Hi there, I'm Gloria Mukabwa 👋
+# Hi there, I'm Gloria 👋
  
-A brief, 2-3 sentence introduction about who you are, what you are passionate about, and what kind of problems you enjoy solving. Speak to your unique engineering interests here.
 I am a Software Developer that is passionate about making life easier using code.
  
 - 🔭 **Current Focus:** Currently, I am working on a farm management system that can eliminated the use of keeping records through paper and provide a centralized system of management
