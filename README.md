@@ -10,7 +10,7 @@ I am a Software Developer that is passionate about making life easier using code
 
 - 🌱 **Learning & Exploration:** I am currently working on my mastery of the use of PHP as a backend language
 
-- ⚡ **Core Interests:** Mobile Applications, Web Applications
+- ⚡ **Core Interests:** Web and Mobile Application Development
  
 ---
  
